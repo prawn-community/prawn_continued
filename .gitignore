@@ -1,0 +1,11 @@
+.*.sw?
+nbproject
+pkg
+.rvmrc
+.bundle
+Gemfile.lock
+/.idea
+/doc
+/bin
+.DS_Store
+*.pdf

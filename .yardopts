@@ -1,0 +1,8 @@
+--charset UTF-8
+--main README.md
+--title 'Prawn Documentation'
+--no-private
+-
+LICENSE
+README.md
+CHANGELOG.md
